@@ -1,0 +1,259 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.5",
+  "base_commit_sha": "b8d7f4f293d3137b0f9e75425bc58c4b09914d63",
+  "prompts": {},
+  "commit_stats": {
+    "git_diff_added_lines": 5040,
+    "git_diff_deleted_lines": 0,
+    "ai_additions": 0,
+    "ai_accepted": 0,
+    "BYMC": 5040,
+    "mixed_additions": 0,
+    "BYAC": 0,
+    "BYRC": 0,
+    "per_file": {
+      "Agent开发/知识点/企业级Agent与LLM应用基础_第1章与第3章.md": {
+        "BYMC": [
+          "1-2064"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent开发/知识点/第01章-企业级Agent到底是什么.md": {
+        "BYMC": [
+          "1-84"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent开发/知识点/第03章-Prompt与Context工程.md": {
+        "BYMC": [
+          "1-83"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent开发/知识点/第05章-企业知识库数据处理.md": {
+        "BYMC": [
+          "1-78"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent开发/知识点/第06章-Chunk-Embedding与向量数据库.md": {
+        "BYMC": [
+          "1-79"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent开发/知识点/第07章-检索系统.md": {
+        "BYMC": [
+          "1-78"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent开发/知识点/第08章-RAG数据更新版本与权限.md": {
+        "BYMC": [
+          "1-86"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent开发/知识点/第10章-企业级RAG评测.md": {
+        "BYMC": [
+          "1-80"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent开发/知识点/第11章-Function与ToolCalling.md": {
+        "BYMC": [
+          "1-104"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent开发/知识点/第12章-企业级工具执行可靠性.md": {
+        "BYMC": [
+          "1-99"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent开发/知识点/第15章-AgentPlanning与执行模式.md": {
+        "BYMC": [
+          "1-94"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent开发/知识点/第16章-AgentLoop终止与长任务.md": {
+        "BYMC": [
+          "1-102"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent开发/知识点/第17章-StateCheckpoint与DurableExecution.md": {
+        "BYMC": [
+          "1-94"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent开发/知识点/第19章-Human-in-the-Loop.md": {
+        "BYMC": [
+          "1-96"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent开发/知识点/第21章-Agent系统整体架构.md": {
+        "BYMC": [
+          "1-101"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent开发/知识点/第22章-流式输出与长任务.md": {
+        "BYMC": [
+          "1-105"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent开发/知识点/第23章-高并发高可用与弹性.md": {
+        "BYMC": [
+          "1-101"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent开发/知识点/第27章-Agent安全.md": {
+        "BYMC": [
+          "1-101"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent开发/知识点/第29章-Agent评测.md": {
+        "BYMC": [
+          "1-99"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent开发/知识点/第30章-可观测性与线上排障.md": {
+        "BYMC": [
+          "1-96"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent开发/知识点/第31章-企业级Agent系统设计题.md": {
+        "BYMC": [
+          "1-102"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent开发/知识点/第32章-真实生产事故题.md": {
+        "BYMC": [
+          "1-104"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent开发/知识点/第一优先级目录.md": {
+        "BYMC": [
+          "1-33"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent开发/知识点/进阶/第04章-大模型接入与ModelGateway.md": {
+        "BYMC": [
+          "1-83"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent开发/知识点/进阶/第09章-高级RAG.md": {
+        "BYMC": [
+          "1-82"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent开发/知识点/进阶/第13章-MCP.md": {
+        "BYMC": [
+          "1-85"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent开发/知识点/进阶/第14章-AgentSkill.md": {
+        "BYMC": [
+          "1-87"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent开发/知识点/进阶/第18章-Memory与Context管理.md": {
+        "BYMC": [
+          "1-103"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent开发/知识点/进阶/第20章-MultiAgent与A2A.md": {
+        "BYMC": [
+          "1-104"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent开发/知识点/进阶/第24章-缓存Token与成本治理.md": {
+        "BYMC": [
+          "1-107"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent开发/知识点/进阶/第25章-部署与发布.md": {
+        "BYMC": [
+          "1-102"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent开发/知识点/进阶/第26章-推理性能优化.md": {
+        "BYMC": [
+          "1-99"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent开发/知识点/进阶/第28章-Text2SQL_Code_Browser安全.md": {
+        "BYMC": [
+          "1-105"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent开发/知识点/进阶/进阶目录.md": {
+        "BYMC": [
+          "1-20"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      }
+    }
+  },
+  "commit_timestamp": 1788141944,
+  "requirement_id": ""
+}
