@@ -1,0 +1,35 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.5",
+  "base_commit_sha": "3c03ea13bf004e0defcb00e03f88802a7c71da1b",
+  "prompts": {},
+  "commit_stats": {
+    "git_diff_added_lines": 251,
+    "git_diff_deleted_lines": 0,
+    "ai_additions": 0,
+    "ai_accepted": 0,
+    "BYMC": 251,
+    "mixed_additions": 0,
+    "BYAC": 0,
+    "BYRC": 0,
+    "per_file": {
+      ".gitignore": {
+        "BYMC": [
+          "1"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "Agent从入门到精通（附实战：论文整理Agent搭建）.md": {
+        "BYMC": [
+          "1-250"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      }
+    }
+  },
+  "commit_timestamp": 1788143554,
+  "requirement_id": ""
+}
